@@ -2,9 +2,9 @@
 A tool for customtkinter with with you can make separators
 
 Made to maximise **the ease of using it**
-Comes for two types:
-  1. Window - Root windows defined by the CTk function
-  2. Frames - For frames
+**Comes for two types:**
+  1. **Window** - Root windows defined by the CTk function
+  2. **Frames** - For frames
 
 *The old fashioned Tkinter Separator*
 
